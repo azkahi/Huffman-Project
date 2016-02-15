@@ -1,3 +1,5 @@
+#include "FileIO.h"
+
 FileIO::FileIO(string a, int b, int c, string d){
     filename = a;
     start = b;
